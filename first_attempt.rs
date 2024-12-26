@@ -1,5 +1,3 @@
-use std::io;
-
 /// A 9×9 Sudoku board; 0 represents an empty cell.
 type Board = [[u8; 9]; 9];
 
