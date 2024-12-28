@@ -1,2 +1,2 @@
-# Ignore Rust build artifacts
+# Ignore Rust and C++ build binaries
 /build/
